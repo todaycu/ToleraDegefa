@@ -10,7 +10,11 @@
   <a href="https://twitter.com/toledeg">
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
+  <a href="https://www.pinterest.com/thecuriouscu">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
+  </a>
+</div>
+
  
    
 
