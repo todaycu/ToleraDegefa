@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/tolera-degefa-wey">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/tolera__dw">
+  <a href="https://www.instagram.com//tolera__dw">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/toledeg">
