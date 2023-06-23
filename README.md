@@ -11,14 +11,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="https://app.daily.dev/todaycu">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/todaycu/todaycu/devcard/devcard.svg"
-    />
-  </a>
-</div>
+ 
+   
 
 ## Greetings! I am Tolera Degefa
 
