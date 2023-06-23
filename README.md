@@ -16,7 +16,7 @@
 
 ## Greetings! I am Tolera Degefa
 
-An Electrical Engineering graduate and a software engineer. With a passion for problem-solving and a commitment to dependable leadership, I strive to make a positive impact through innovative solutions. Welcome to my GitHub page, where technology meets excellence. Let's create something extraordinary!
+An Electrical Engineering graduate and a Software Engineer. With a passion for problem-solving and a commitment to dependable leadership, I strive to make a positive impact through innovative solutions. Welcome to my GitHub page, where technology meets excellence. Let's create something extraordinary!
 
 <img src="https://komarev.com/ghpvc/?username=todaycu&style=flat-square&color=blue" alt="profile view">
 
