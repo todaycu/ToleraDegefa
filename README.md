@@ -18,7 +18,7 @@
  
    
 
-## Greetings! I am Tolera Degefa
+# I am Tolera Degefa
 
 An Electrical Engineering graduate and a Software Engineer. With a passion for problem-solving and a commitment to dependable leadership, I strive to make a positive impact through innovative solutions. Welcome to my GitHub page, where technology meets excellence. Let's create something extraordinary!
 
